@@ -1,3 +1,3 @@
 <?php
-$conn = new mysqli('localhost', 'root', '', 'phpmusic');
+$conn = new mysqli('localhost', 'root', '', 'musicmanagement');
 ?>
